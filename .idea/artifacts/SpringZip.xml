@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpringZip">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringZip</output-path>
+    <root id="root">
+      <element id="module-output" name="SpringZip" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/WEB-INF/index.jsp" />
+    </root>
+  </artifact>
+</component>
